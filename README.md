@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hwangjia
-- 👀 I’m interested in finding out more on ML consulting
-- 🌱 I’m currently learning more about EDA in both Python and R! 
+- 👀 Currently working as a Carbon Data Analyst Intern (My first job relating heavily to data analytics)
+- 🌱 I’m currently learning more about EDA in both Python and R! But right now mostly in Python.
 - 💞️ I’m looking to collaborate on honestly anything related to data wrangling and dealing with outliers, skewed data distribution and imbalanced datasets.
 - 📫 How to reach me 
 
